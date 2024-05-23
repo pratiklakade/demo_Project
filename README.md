@@ -1,4 +1,4 @@
-# demo_Project
+cd# demo_Project
 This is my first Git Repository
 <br>
-Author - Pratik Lakade
+Author - Pratik Lahu Lakade
